@@ -1,6 +1,6 @@
 /**
  * Author: Julio Rosario
- * Last Update: 12.20.17
+ * Last Update: 12.22.17
  * Purpose: The purpose of this program is to create a basic calculator that 
  *          perform basic calculation such as addition,subtraction,multiplication
  *          and division, as well as unary operation such as cosine,sine and tangent.

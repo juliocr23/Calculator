@@ -1,3 +1,10 @@
+/**
+ * Author: Julio Rosario
+ * last Update: 12.22.2017
+ * Purpose: The CalculatorBrain class is the brain/algorithm of the
+ * calculator, where all the calculations and decisions are made.
+ */
+
 package app;
 
 
